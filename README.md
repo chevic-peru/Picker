@@ -1,4 +1,11 @@
 # Picker
+*☢️Picker☣️*
+
+Picker es una herramienta para localizar Ip
+
+Para pruebas conectarse a una vpn
+Y luego usar los comandos de termux:
+
 apt update && apt upgrade
 
 pkg install python3
