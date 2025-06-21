@@ -1,6 +1,8 @@
 # Picker
 apt update && apt upgrade
+
 pkg install python3
+
 pkg install git
 
 git clone 
